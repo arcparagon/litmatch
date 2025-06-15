@@ -1,8 +1,8 @@
-[
+{
   "Name1",
   "Token1",
   ExpiryTimestamp1,
   "Name2",
   "Token2",
   ExpiryTimestamp2
-]
+}
