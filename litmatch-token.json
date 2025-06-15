@@ -1,10 +1,6 @@
 {
-    "id1": 2,
+    "id1": 1,
     "name1": "JOSH",
     "token1": "HHH",
-    "expiry1": 0,
-    "id2": 3,
-    "name2": "xerxteye",
-    "token2": "CCC",
-    "expiry2": 1752562019
+    "expiry1": 0
 }
