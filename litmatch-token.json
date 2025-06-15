@@ -1,8 +1,14 @@
-{
-  "Name1",
-  "Token1",
-  ExpiryTimestamp1,
-  "Name2",
-  "Token2",
-  ExpiryTimestamp2
-}
+[
+  "ActiveUser",
+  "active_token_2023",
+  1893456000,
+  "ExpiredUser",
+  "expired_token_123",
+  1609459200,
+  "NeverExpires",
+  "perm_token_456",
+  0,
+  "SoonExpired",
+  "temp_token_789",
+  1701388800
+]
