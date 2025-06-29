@@ -18,5 +18,9 @@
     "id5": 5,
     "name5": "ISSEI",
     "token5": "d7f69c59d4a6fbad2d40e9811fd7edc158f029a97c7629ad4e2194a2a70d54f8",
-    "expiry5": 1753693154
+    "expiry5": 1753693154,
+    "id6": 6,
+    "name6": "RIPAN",
+    "token6": "23ca0f7d14eedeec7116a59d632235aaa4eeff325f30b4a3069e80b93998b547",
+    "expiry6": 0
 }
